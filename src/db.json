@@ -1,0 +1,360 @@
+{
+	"gallery": [
+		{
+		"id": "category-1",
+		"category": "categories",
+		"title": "Броши и подвески",
+		"url": "../../images/categories/broshi.jpg",
+		"imgUrl": "../../images/gallery/decor-comp/2.jpg",
+		"description": ""
+		},
+		{
+			"id": "category-2",
+			"category": "categories",
+			"title": "Декоративные композиции",
+			"url": "../../images/categories/decor_comp.jpg",
+			"imgUrl": "../../images/gallery/decor-comp/2.jpg",
+			"description": ""
+		},
+		{
+			"id": "category-3",
+			"category": "categories",
+			"title": "Запонки и пуговицы",
+			"url": "../../images/categories/zaponki.jpg",
+			"imgUrl": "../../images/gallery/decor-comp/2.jpg",
+			"description": ""
+		},
+		{
+			"id": "category-4",
+			"category": "categories",
+			"title": "Кольца и браслеты",
+			"url": "../../images/categories/rings.jpg",
+			"imgUrl": "../../images/gallery/decor-comp/2.jpg",
+			"description": ""
+		},
+		{
+			"id": "category-5",
+			"category": "categories",
+			"title": "Пряжки",
+			"url": "../../images/categories/pryazhki.jpg",
+			"imgUrl": "../../images/gallery/decor-comp/2.jpg",
+			"description": ""
+		},
+		{
+			"id": "category-6",
+			"category": "categories",
+			"title": "Разное",
+			"url": "../../images/categories/other.jpg",
+			"imgUrl": "../../images/gallery/decor-comp/2.jpg",
+			"description": ""
+		},
+		{
+			"id": "category-7",
+			"category": "categories",
+			"title": "Серьги",
+			"url": "../../images/categories/sergi.jpg",
+			"imgUrl": "../../images/gallery/decor-comp/2.jpg",
+			"description": ""
+		},
+		{
+			"id": "category-8",
+			"category": "categories",
+			"title": "Темляки и бусины",
+			"url": "../../images/categories/temlyaki.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/decor-comp/2.jpg"
+			},
+			"description": ""
+		},
+		{
+			"id": "category-9",
+			"category": "categories",
+			"title": "Фигурки",
+			"url": "../../images/categories/figurki.jpg",
+			"imgUrl": "../../images/gallery/decor-comp/2.jpg",
+			"description": ""
+		},
+		{ 
+			"id": "broshi-1",
+			"category": "broshi",
+			"title": "Пять павлинов",
+			"url": "../../images/gallery/broshi/preview/1.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/broshi/1.jpg"
+			}, 
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{
+			"id": "broshi-2",
+			"category": "broshi",
+			"title": "Барвинок",
+			"url": "../../images/gallery/broshi/preview/2.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/broshi/2.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{
+			"id": "broshi-3",
+			"category": "broshi",
+			"title": "Рыбка с ключиком",
+			"url": "../../images/gallery/broshi/preview/3.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/broshi/3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "decor-comp-1",
+			"category": "decor-comp",
+			"title": "Рыцарь смерть и черт",
+			"url": "../../images/gallery/decor-comp/preview/1_200x200.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/decor-comp/1.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{
+			"id": "decor-comp-2",
+			"category": "decor-comp",
+			"title": "Меланхолия",
+			"url": "../../images/gallery/decor-comp/preview/2_200x200.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/decor-comp/2.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{
+			"id": "decor-comp-3",
+			"category": "decor-comp",
+			"title": "Святой Иероним в келье",
+			"url": "../../images/gallery/decor-comp/preview/3_200x200.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/decor-comp/3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "zaponki-1",
+			"category": "zaponki",
+			"title": "Пуговица \"Стрекоза\"",
+			"url": "../../images/gallery/zaponki/preview/1.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/zaponki/1.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{
+			"id": "zaponki-2",
+			"category": "zaponki",
+			"title": "Пуговица \"Трилистник\"",
+			"url": "../../images/gallery/zaponki/preview/2.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/zaponki/2.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{
+			"id": "zaponki-3",
+			"category": "zaponki",
+			"title": "Пуговицы 1",
+			"url": "../../images/gallery/zaponki/preview/3.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/zaponki/3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "rings-1",
+			"category": "rings",
+			"title": "Викинг",
+			"url": "../../images/gallery/rings/preview/1.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/rings/1.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "rings-2",
+			"category": "rings",
+			"title": "Венок лилий",
+			"url": "../../images/gallery/rings/preview/2.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/rings/2.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "rings-3",
+			"category": "rings",
+			"title": "Трилистник",
+			"url": "../../images/gallery/rings/preview/3.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/rings/3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "pryazhki-1",
+			"category": "pryazhki",
+			"title": "Замок",
+			"url": "../../images/gallery/pryazhki/preview/1.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/pryazhki/1.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "pryazhki-2",
+			"category": "pryazhki",
+			"title": "Рыбки",
+			"url": "../../images/gallery/pryazhki/preview/2.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/pryazhki/2.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "pryazhki-3",
+			"category": "pryazhki",
+			"title": "Листья",
+			"url": "../../images/gallery/pryazhki/preview/3.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/pryazhki/3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "other-1",
+			"category": "other",
+			"title": "Ключик",
+			"url": "../../images/gallery/other/preview/1.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/other/1.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "other-2",
+			"category": "other",
+			"title": "Ножик \"Дом на дереве\"",
+			"url": "../../images/gallery/other/preview/2.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/other/2.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "other-3",
+			"category": "other",
+			"title": "Гравитация",
+			"url": "../../images/gallery/other/preview/3.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/other/3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "sergi-1",
+			"category": "sergi",
+			"title": "Серьги №1",
+			"url": "../../images/gallery/sergi/preview/1.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/sergi/1.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "sergi-2",
+			"category": "sergi",
+			"title": "Серьги №2",
+			"url": "../../images/gallery/sergi/preview/2.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/sergi/2.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "sergi-3",
+			"category": "sergi",
+			"title": "Серьги №3",
+			"url": "../../images/gallery/sergi/preview/3.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/sergi/3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "temlyaki-1",
+			"category": "temlyaki",
+			"title": "Бусина №1",
+			"url": "../../images/gallery/temlyaki/preview/1.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/temlyaki/1.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "temlyaki-2",
+			"category": "temlyaki",
+			"title": "Бусина №2",
+			"url": "../../images/gallery/temlyaki/preview/2.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/temlyaki/2.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "temlyaki-3",
+			"category": "temlyaki",
+			"title": "Бусина №3",
+			"url": "../../images/gallery/temlyaki/preview/3.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/temlyaki/3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "temlyaki-12",
+			"category": "temlyaki",
+			"title": "Бусина №12",
+			"url": "../../images/gallery/temlyaki/preview/12.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/temlyaki/12_1.jpg",
+				"img2": "../../images/gallery/temlyaki/12_2.jpg",
+				"img3": "../../images/gallery/temlyaki/12_3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "figurki-1",
+			"category": "figurki",
+			"title": "Бычок",
+			"url": "../../images/gallery/figurki/preview/1.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/figurki/1.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "figurki-2",
+			"category": "figurki",
+			"title": "Велосипедист",
+			"url": "../../images/gallery/figurki/preview/2.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/figurki/2.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		},
+		{ 
+			"id": "figurki-3",
+			"category": "figurki",
+			"title": "Бочка с розами",
+			"url": "../../images/gallery/figurki/preview/3.jpg",
+			"imgUrl": {
+				"img1": "../../images/gallery/figurki/3.jpg"
+			},
+			"description": "Lorem ipsum dolor sit amet"
+		}
+	]
+}

@@ -1,0 +1,146 @@
+body {
+	color: #beb07f;
+	background-color: #000;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+}
+
+h5 {
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+div {
+	/*border: 1px solid black;*/
+}
+
+.separator {
+	height: 1px;
+	background: #beb07f;
+	margin: 10px 0;
+	width: 98%;
+}
+
+a {
+	font-family: Verdana, sans-serif;
+	color: #beb07f;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.col {
+  
+ min-width: 30%;
+ height: 150px;
+}
+.card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-text-wrap {
+  margin-left: 5px;
+}
+
+.card-img {
+height: auto; width: 80px; /*float: left;*/
+cursor: pointer;
+}
+
+.card-title {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+.card-btn {
+	font-size: 12px;
+}
+
+.vmodal.open .modal-overlay,
+.vmodal.open .modal-window {
+	opacity: 1;
+	z-index: 1000;
+}
+
+.vmodal.hide .modal-overlay,
+.vmodal.hide .modal-window {
+	opacity: 1;
+	z-index: 1000;
+}
+
+.vmodal.open .modal-window {
+	transform: translateY(100px);
+}
+
+.vmodal.open .modal-overlay {
+	background: rgba(0, 0, 0, .7);
+}
+
+.vmodal.hide .modal-window {
+	transform: translateY(-200px);
+}
+
+.vmodal.hide .modal-overlay {
+	background: rgba(0, 0, 0, 0);
+}
+
+.modal-window, .modal-overlay {
+	opacity: 0;
+	z-index: -1;
+}
+
+.modal-overlay {
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	background: rgba(0, 0, 0, 0);
+	transition: background .2s ease-in;
+}
+
+.modal-window {
+	width: 600px;
+	border-radius: 5px;
+	background: #000;
+	margin: 0 auto;
+	transform: translateY(-200px);
+	transition: transform .2s ease-in;
+}
+
+.modal-header {
+	padding: 5px 10px;
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid #eee;
+}
+
+.modal-title {
+	font-size: 1.5rem;
+}
+
+.modal-close {
+	cursor: pointer;
+}
+
+.modal-body {
+	padding: 10px;
+}
+
+.modal-body p {
+	margin: 0 0 5px;
+}
+
+.modal-footer {
+	padding: 5px 10px;
+	border-top: 1px solid #eee;
+}
